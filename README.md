@@ -145,7 +145,7 @@ The e-commerce Laravel project includes the following features:
 |                        |                           |                            |   
 
 
-
+## Vendor Dashboard
 
 
 
