@@ -147,5 +147,31 @@ The e-commerce Laravel project includes the following features:
 
 ## Vendor Dashboard
 
+- Products
+
+| Products               | Add Product               | Edit Product          |
+| ---------------------- | ----------------------    | -------------------------  |
+| ![vendor_products](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/18bd2517-d0f5-4859-b58f-f18ffaa22c70)|![vendor_add_product](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/9b6952c8-92d2-450d-844c-03b86ff37ad4)|![vendor_edit_product](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/26f44953-171f-4fc3-b9e8-dbd54231ec12)|
+
+- Attribute
+
+| Attributes             | Add Attribute             | Edit Attribute             |
+| ---------------------- | ----------------------    | -------------------------  |
+| ![vendor_attribute](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/a557e3c6-5454-4c8b-b077-93eeb24c8b02)|![vendor_add_attribute](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/c2a4dc95-f2c8-4a9b-8429-36753918d9c7)|![vendor_edit_attribute](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/68dfbbc4-3383-49a9-a466-5534d536f2f9)|
+
+
+- Attribute Values
+
+| Attribute Value        | Add Attribute Value       | Edit Attribute Value       |
+| ---------------------- | ----------------------    | -------------------------  |
+| ![vendor_attribute_value](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/567f7969-74ae-49b2-8996-f1c13ef9e7e1)|![vendor_add_ttribute_value](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/4992abd9-002d-4fb6-a378-3f258fc3ac0f)|![vendor_edit_ttribute_value](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/ba21f7b1-d6b5-4906-a526-145b6dc71d1f)|
+
+
+- Product Variant
+
+| Product Variants       | Add Product Variant       | Edit Product Variant       |
+| ---------------------- | ----------------------    | -------------------------  |
+| ![vendor_product_variant](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/02b56e40-1b01-40ea-87fe-9975ac487ec7)|![vendor_add_product_variant](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/fef8ce17-f8b1-465e-8e60-6da71d683ae5)|![vendor_edit_product_variant](https://github.com/KareemShaban1/e-commerce_laravel/assets/42013687/6a44145c-47bb-43eb-8971-fd593eba7757)|
+
 
 
