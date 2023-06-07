@@ -1,4 +1,4 @@
-# E-Commerce Laravel Project
+# Multi-vendor Laravel Project
 This repository contains an e-commerce project built using the Laravel framework. The project aims to provide a robust and scalable solution for creating and managing an online store.
 
 Features
