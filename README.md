@@ -1,8 +1,8 @@
 # Multi-vendor Laravel Project
-This repository contains an e-commerce project built using the Laravel framework. The project aims to provide a robust and scalable solution for creating and managing an online store.
+This repository contains a multi-vendor project description built using the Laravel framework. The project aims to provide a robust and scalable solution for creating and managing an online store.
 
 Features
-The e-commerce Laravel project includes the following features:
+The multi-vendor Laravel project includes the following features:
 
 - User Authentication: Users can register, log in, and manage their accounts.
 - Product Management: Admins can add, edit, and delete products.
