@@ -1,5 +1,5 @@
 # Multi-vendor Laravel Project
-This repository contains a multi-vendor project description built using the Laravel framework. The project aims to provide a robust and scalable solution for creating and managing an online store.
+This repository contains a multi-vendor project description built using the Laravel framework. The project aims to provide a robust and scalable solution for creating and managing an Multi Vendor store.
 
 Features
 The multi-vendor Laravel project includes the following features:
