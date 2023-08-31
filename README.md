@@ -5,7 +5,9 @@ Features
 The multi-vendor Laravel project includes the following features:
 
 - User Authentication: Users can register, log in, and manage their accounts.
-- Product Management: Admins can add, edit, and delete products.
+- Multi Langudages : support Multi Languages ( English - Arabic ) another langudages can be provided.
+- Multi Authentication : support Multi Auth , provide three dashboards ( admin , vendor , delivery)
+- Product Management: Admins can add, edit, and delete products and product variants.
 - Product Categories: Products can be categorized into different categories for easy navigation.
 - Shopping Cart: Users can add products to their shopping cart and proceed to checkout.
 - Order Management: Admins can manage and fulfill customer orders.
@@ -14,8 +16,9 @@ The multi-vendor Laravel project includes the following features:
 - Search Functionality: Users can search for products using keywords.
 - User Dashboard: Users have access to a personalized dashboard to manage their orders and account settings.
 - Wishlist: Users can add products to their wishlist for future purchase. (in progress)
-- Coupon Codes: Admins can create and apply coupon codes to offer discounts. (in progress)
-- Email Notifications: Users receive email notifications for order updates, account activities, and promotional offers.
+- Coupon Codes: Admins can create and apply coupon codes to offer discounts.
+- Email Notifications: Users (clients) receive email notifications for order updates, account activities, and promotional offers.
+- WhatsApp Verification : Users (clients) receive whatsapp message to verify his account after registeration process. 
 
 
 # Screen Shots 
